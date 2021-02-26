@@ -1,0 +1,17 @@
+# working bank system
+
+- backbone
+    functions for navigating
+    security checks
+
+- bank account class
+    deposit
+    withdraw
+    display
+    
+- different accounts
+    password encrypt and decrypt -> .txt file with names + pwd + balance
+    
+#later
+- networking to connect
+- tkinter interface
